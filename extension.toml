@@ -1,0 +1,7 @@
+id = "CSVis"
+name = "CSV Visualiser"
+version = "0.0.1"
+schema_version = 1
+authors = ["Bibek Dhungana dhunganapiyush@gmail.com"]
+description = "This is a CSV Visualiser for Zed IDE."
+repository = "https://github.com/th3-roGue-deV1l/CSVis"
