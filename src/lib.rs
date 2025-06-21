@@ -1,11 +1,11 @@
 use zed_extension_api as zed;
 
-struct MyExtension {
+struct CSVis {
     // ... state
 }
 
-impl zed::Extension for MyExtension {
+impl zed::Extension for CSVis {
     // ...
 }
 
-zed::register_extension!(MyExtension);
+zed::register_extension!(CSVis);
